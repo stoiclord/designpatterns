@@ -30,3 +30,6 @@
 - Strategy Pattern
 - Template Pattern
 - Visitor Pattern
+
+#### References
+- https://roadmap.sh/guides/design-patterns-for-humans
